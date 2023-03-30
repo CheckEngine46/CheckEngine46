@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/Node-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=339933)
 ![](https://img.shields.io/badge/PNPM-informational?style=flat-square&logo=pnpm&logoColor=ffffff&color=F69220)<br/>
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=47A248)
+![](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
 
 🌱 I’m currently learning 
